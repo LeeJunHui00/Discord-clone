@@ -54,8 +54,8 @@ function Sidebar() {
             <div className="sidebar__profile">
                 <Avatar src="avatar_img.jpg" />
                 <div className="sidebar__profileInfo">
-                    <h3>@ljh2832</h3>
-                    <p>#thisIsMyID</p>
+                    <h3>두마리룡</h3>
+                    <p>#2527</p>
                 </div>
 
                 <div className="sidebar__profileIcons">
