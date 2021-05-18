@@ -11,7 +11,7 @@ function Login() {
     return (
         <div className="login">
             <div className="login__logo">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Discord_Color_Text_Logo.svg/800px-Discord_Color_Text_Logo.svg.png?uselang=ko" alt="" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Discord_Old_Logo.svg" alt="" />
             </div>
 
             <Button onClick={signIn}>Sign In</Button>
